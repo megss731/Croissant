@@ -1,0 +1,21 @@
+@media (max-width: 767.98px) {
+  img {
+    max-width: fit-content;
+  }
+}
+img {
+  display: flex;
+}
+h1 {
+  text-align: center;
+}
+body {
+  background-color: cornflowerblue;
+  color: cornsilk;
+}
+a {
+  padding: 5px;
+  color: beige;
+  background-color: black;
+  border-radius: 4px;
+}
